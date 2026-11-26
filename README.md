@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/kitalev">
-    <img src="assets/legacy-ios-banner.png" alt="kitalev · Legacy iOS. An early iPhone lit in ice blue." width="820">
+    <img src="./legacy-ios-banner.png" alt="kitalev · Legacy iOS. An early iPhone lit in ice blue." width="820">
   </a>
 </p>
 
@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/kitalev"><img src="assets/telegram.png" alt="Telegram · @kitalev" width="150"></a>
-  <a href="https://github.com/kitalev/GitHub-Legacy"><img src="assets/github-legacy.png" alt="GitHub Legacy source code" width="150"></a>
-  <a href="https://github.com/kitalev/repo"><img src="assets/package-repo.png" alt="kitalev’s package repository on GitHub" width="150"></a>
+  <a href="https://t.me/kitalev"><img src="./telegram.png" alt="Telegram · @kitalev" width="150"></a>
+  <a href="https://github.com/kitalev/GitHub-Legacy"><img src="./github-legacy.png" alt="GitHub Legacy source code" width="150"></a>
+  <a href="https://github.com/kitalev/repo"><img src="./package-repo.png" alt="kitalev’s package repository on GitHub" width="150"></a>
 </p>
 
 ## GitHub Legacy
@@ -24,8 +24,8 @@ An unofficial GitHub client for older iOS devices. Browse repositories, read REA
 <p align="center">
   <a href="https://github.com/kitalev/GitHub-Legacy">
     <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="assets/github-legacy-still.png">
-      <img src="assets/github-legacy-tour.gif" alt="Illustrated GitHub Legacy tour showing repository browsing, README viewing, and release downloads on an early iPhone." width="820">
+      <source media="(prefers-reduced-motion: reduce)" srcset="./github-legacy-still.png">
+      <img src="./github-legacy-tour.gif" alt="Illustrated GitHub Legacy tour showing repository browsing, README viewing, and release downloads on an early iPhone." width="820">
     </picture>
   </a>
 </p>
