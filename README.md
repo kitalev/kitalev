@@ -1,43 +1,33 @@
-<p align="center">
-  <a href="https://github.com/kitalev">
-    <img src="./legacy-ios-banner.png" alt="kitalev · Legacy iOS. An early iPhone lit in ice blue." width="820">
-  </a>
-</p>
+<a href="https://github.com/kitalev"><img align="right" src="https://avatars.githubusercontent.com/u/58788012?s=192&amp;v=4" alt="kitalev’s GitHub profile" width="88" height="88"></a>
 
-<h1 align="center">New apps for old iOS</h1>
+# Hi, I’m kitalev
 
-<p align="center">
-  I build native apps for older iPhones, iPads, and iPod touch devices.<br>
-  I write in <strong>Objective-C</strong> and build with <strong>Theos</strong>.
-</p>
+I build native apps for older iPhones, iPads, and iPod touch devices. I write them in Objective-C and build them with Theos.
 
-<p align="center">
-  <a href="https://t.me/kitalev"><img src="./telegram.png" alt="Telegram · @kitalev" width="150"></a>
-  <a href="https://github.com/kitalev/GitHub-Legacy"><img src="./github-legacy.png" alt="GitHub Legacy source code" width="150"></a>
-  <a href="https://github.com/kitalev/repo"><img src="./package-repo.png" alt="kitalev’s package repository on GitHub" width="150"></a>
+<p>
+  <a href="https://t.me/kitalev"><img src="./telegram.png" alt="" width="22" height="22" align="middle"> Telegram</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/kitalev/GitHub-Legacy"><img src="./github-legacy.png" alt="" width="22" height="22" align="middle"> GitHub Legacy</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/kitalev/repo"><img src="./package-repo.png" alt="" width="22" height="22" align="middle"> Package repo</a>
 </p>
 
 ## GitHub Legacy
 
-An unofficial GitHub client for older iOS devices. Browse repositories, read READMEs, follow issues and pull requests, and download release assets straight to your device.
+An unofficial, native GitHub client for older iOS devices. Browse repositories, read READMEs, keep up with issues and pull requests, and grab release files right from your device.
 
-<p align="center">
-  <a href="https://github.com/kitalev/GitHub-Legacy">
-    <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="./github-legacy-still.png">
-      <img src="./github-legacy-tour.gif" alt="Illustrated GitHub Legacy tour showing repository browsing, README viewing, and release downloads on an early iPhone." width="820">
-    </picture>
-  </a>
-</p>
+<a href="https://github.com/kitalev/GitHub-Legacy">
+  <img src="./github-legacy-still.png" alt="Illustration of two older iPhones showing GitHub Legacy’s repository and release screens." width="720">
+</a>
 
-[**Download the latest release**](https://github.com/kitalev/GitHub-Legacy/releases/latest) · [View source](https://github.com/kitalev/GitHub-Legacy)
+[Download the latest release](https://github.com/kitalev/GitHub-Legacy/releases/latest) · [View source](https://github.com/kitalev/GitHub-Legacy)
 
-## Package repository
+## Package repo
 
-My package source for **Cydia** and **Sileo**. Add the address below in your package manager to install GitHub Legacy and receive updates.
+Add this URL to your sources in Cydia or Sileo to install GitHub Legacy and get updates.
 
 ```text
 https://kitalev.github.io/repo/
 ```
 
-[**Open the package source**](https://kitalev.github.io/repo/) · [Browse the repository](https://github.com/kitalev/repo)
+[Open the package repo](https://kitalev.github.io/repo/)
